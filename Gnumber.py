@@ -9,6 +9,7 @@ if num1 > num2 :
   print("The First Number Is Greater Than Second Number ")
 if num2 > num1 :
   print("The Second Number Is Greater Than First Number ")
-else :
+  
+if num1 == num2  :
   print("Both Number Are Equal")
 print("THANKS FOR USING MY SCRIPT BY ALI EMARA ")
